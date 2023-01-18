@@ -1,7 +1,4 @@
-# Day 06 – Java bootcamp
-### JUnit/Mockito
-
-*Takeaways: Today you will learn the basics of module and integration testing*
+# JUnit/Mockito
 
 ### Exercise 00 – First Tests
 
